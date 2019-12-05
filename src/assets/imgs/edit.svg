@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>编辑</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="86.2058143%" y1="40.291147%" x2="38.6683837%" y2="58.3326038%" id="linearGradient-1">
+            <stop stop-color="#23A5FF" offset="0%"></stop>
+            <stop stop-color="#0F6CFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="E-基础配置" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="E1-基础配置-卖场管理" transform="translate(-704.000000, -245.000000)" fill="url(#linearGradient-1)">
+            <g id="卖场卡片" transform="translate(259.000000, 216.000000)">
+                <g id="标题" transform="translate(6.300000, 12.600000)">
+                    <g id="编辑" transform="translate(434.900000, 15.800000)">
+                        <g id="icon_edit" transform="translate(4.000000, 1.000000)">
+                            <path d="M15.9355167,5.42822843 C16.5154157,5.42822843 16.9855167,5.89832945 16.9855167,6.47822843 L16.9855167,12.7782284 C16.9855167,13.3581274 16.5154157,13.8282284 15.9355167,13.8282284 L3.33551673,13.8282284 L3.33551673,5.42822843 L15.9355167,5.42822843 Z M1.26946446,5.46786799 L1.23551673,13.8282284 L-3.02703616,9.76436861 L1.26946446,5.46786799 Z" transform="translate(6.979240, 9.628228) rotate(-45.000000) translate(-6.979240, -9.628228) "></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>删除</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="37.147586%" y1="6.89448656%" x2="58.0257671%" y2="73.9943394%" id="linearGradient-1">
+            <stop stop-color="#23A5FF" offset="0%"></stop>
+            <stop stop-color="#0F6CFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="69.0218049%" y1="0%" x2="69.0218049%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#23A5FF" offset="0%"></stop>
+            <stop stop-color="#0F6CFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="70.1292727%" y1="37.5%" x2="94.0872673%" y2="62.5%" id="linearGradient-3">
+            <stop stop-color="#23A5FF" offset="0%"></stop>
+            <stop stop-color="#0F6CFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="E-基础配置" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="E1-基础配置-卖场管理" transform="translate(-746.000000, -245.000000)">
+            <g id="卖场卡片" transform="translate(259.000000, 216.000000)">
+                <g id="标题" transform="translate(6.300000, 12.600000)">
+                    <g id="删除" transform="translate(480.900000, 16.800000)">
+                        <g id="icon_delete" transform="translate(-0.000000, 0.000000)">
+                            <path d="M9.45,13.65 L10.5,13.65 L10.5,6.3 L12.6,6.3 L12.6,14.7 C12.6,15.279899 12.129899,15.75 11.55,15.75 L5.25,15.75 C4.67010101,15.75 4.2,15.279899 4.2,14.7 L4.2,6.3 L6.3,6.3 L6.3,13.65 L7.35,13.65 L7.35,6.3 L9.45,6.3 L9.45,13.65 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+                            <path d="M2.1,4.2 L14.7,4.2 L14.7,5.25 C14.7,5.82989899 14.229899,6.3 13.65,6.3 L3.15,6.3 C2.57010101,6.3 2.1,5.82989899 2.1,5.25 L2.1,4.2 L2.1,4.2 Z" id="Rectangle" fill="url(#linearGradient-2)"></path>
+                            <path d="M6.3,1.05 L10.5,1.05 L10.5,2.1 C10.5,2.67989899 10.029899,3.15 9.45,3.15 L7.35,3.15 C6.77010101,3.15 6.3,2.67989899 6.3,2.1 L6.3,1.05 L6.3,1.05 Z" id="Rectangle-Copy" fill="url(#linearGradient-3)"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

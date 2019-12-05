@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>钻石</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="22.1777944%" y1="4.15294492%" x2="79.8534411%" y2="95.2787665%" id="linearGradient-1">
+            <stop stop-color="#FFA82F" stop-opacity="0.99142264" offset="0%"></stop>
+            <stop stop-color="#ED9755" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="54.3854547%" y1="54.1791113%" x2="50%" y2="46.2765735%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" stop-opacity="0.617433348" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="54.5132246%" y1="93.6315402%" x2="54.5132246%" y2="0%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" stop-opacity="0.460118007" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="63.7515628%" y1="57.312122%" x2="57.7884089%" y2="32.5413223%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" stop-opacity="0.617433348" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="92.478347%" id="linearGradient-5">
+            <stop stop-color="#FFFFFF" stop-opacity="0.18282889" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="A-客流概览" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-1121.000000, -263.000000)" id="编组-3">
+            <g transform="translate(259.000000, 87.000000)">
+                <g id="头像" transform="translate(0.000000, 59.000000)">
+                    <g id="男性" transform="translate(862.000000, 117.000000)">
+                        <g id="钻石">
+                            <circle id="椭圆形" fill="url(#linearGradient-1)" cx="17" cy="17" r="17"></circle>
+                            <g id="编组-8" transform="translate(6.000000, 10.000000)">
+                                <polygon id="矩形" fill="url(#linearGradient-2)" points="1.91235631 5.96855898e-13 20.0876437 5.96855898e-13 22 5 -1.02318154e-12 5"></polygon>
+                                <polygon id="矩形" fill="url(#linearGradient-3)" points="6.86925287 5.96855898e-13 15.1307471 5.96855898e-13 16 5 6 5"></polygon>
+                                <polygon id="矩形备份-31" fill="url(#linearGradient-4)" points="0 5 22 5 11 18"></polygon>
+                                <polygon id="矩形备份-31" fill="url(#linearGradient-5)" points="6 5 16 5 11 18"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

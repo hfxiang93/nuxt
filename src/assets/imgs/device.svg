@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="17px" viewBox="0 0 17 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>设备</title>
+    <desc>Created with Sketch.</desc>
+    <g id="E-基础配置" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="E1-基础配置-卖场管理" transform="translate(-572.000000, -347.000000)">
+            <g id="设备" transform="translate(572.000000, 347.000000)">
+                <g id="电话备份-5" transform="translate(-0.000000, -0.000000)">
+                    <rect id="矩形" stroke="#1A89FF" stroke-width="1.05" x="2.625" y="7.875" width="11.55" height="6.3"></rect>
+                    <rect id="矩形" fill="#1A89FF" fill-rule="evenodd" x="11.55" y="2.1" width="1.05" height="6.3"></rect>
+                    <circle id="椭圆形" fill="#1A89FF" fill-rule="evenodd" cx="4.725" cy="11.025" r="1"></circle>
+                    <circle id="椭圆形备份" fill="#1A89FF" fill-rule="evenodd" cx="6.825" cy="11.025" r="1"></circle>
+                    <circle id="椭圆形备份-2" fill="#1A89FF" fill-rule="evenodd" cx="8.925" cy="11.025" r="1"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

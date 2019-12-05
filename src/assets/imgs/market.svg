@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>大商场</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="37.1867534%" y1="44.1650356%" x2="78.2687875%" y2="102.757445%" id="linearGradient-1">
+            <stop stop-color="#23A5FF" offset="0%"></stop>
+            <stop stop-color="#0F6CFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="48.6193905%" y1="62.6865365%" x2="50%" y2="109.446175%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.8" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.50824%" y1="62.6865365%" x2="50%" y2="109.446175%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.8" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="E-基础配置" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="E1-基础配置-卖场管理" transform="translate(-270.000000, -234.000000)">
+            <g id="卖场卡片" transform="translate(259.000000, 216.000000)">
+                <g id="标题" transform="translate(6.300000, 12.600000)">
+                    <g id="大商场" transform="translate(4.250000, 5.300000)">
+                        <circle id="Oval" fill="url(#linearGradient-1)" cx="17.8" cy="17.8" r="16.8"></circle>
+                        <g id="Group-7" transform="translate(10.450000, 10.450000)">
+                            <polygon id="Clip-2" fill="url(#linearGradient-2)" points="8.68965517 7.60344828 8.68965517 15.75 10.5835176 15.75 10.5835176 12.0093675 13.8554945 12.0093675 13.8554945 15.75 15.75 15.75 15.75 7.60344828"></polygon>
+                            <path d="M0,15.75 L8.14655172,15.75 L8.14655172,0 L0,0 L0,15.75 Z M4.86526469,3.91116491 L6.40390965,3.91116491 L6.40390965,2.41959706 L4.86526469,2.41959706 L4.86526469,3.91116491 Z M1.71530913,3.91116491 L3.25395409,3.91116491 L3.25395409,2.41959706 L1.71530913,2.41959706 L1.71530913,3.91116491 Z M4.89259764,7.41712486 L6.43124259,7.41712486 L6.43124259,5.92555701 L4.89259764,5.92555701 L4.89259764,7.41712486 Z M1.71530913,7.41712486 L3.25395409,7.41712486 L3.25395409,5.92555701 L1.71530913,5.92555701 L1.71530913,7.41712486 Z M4.89259764,10.9237311 L6.43124259,10.9237311 L6.43124259,9.43216323 L4.89259764,9.43216323 L4.89259764,10.9237311 Z M1.71530913,10.9237311 L3.25395409,10.9237311 L3.25395409,9.43216323 L1.71530913,9.43216323 L1.71530913,10.9237311 Z" id="Clip-5" fill="url(#linearGradient-3)"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>女</title>
+    <desc>Created with Sketch.</desc>
+    <g id="A-客流概览" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标" transform="translate(-51.000000, -47.000000)" fill="#FF6363" fill-rule="nonzero">
+            <g id="女" transform="translate(51.000000, 47.000000)">
+                <path d="M8,0 C10.7614237,0 13,2.23857625 13,5 C13,7.41853874 11.2828356,9.43601224 9.0011864,9.89974091 L9,11 L11,11 L11,13 L8.999,13 L9,16 L7,16 L6.999,13 L5,13 L5,11 L7,11 L6.99981203,9.89994372 C4.71766536,9.43660076 3,7.4188915 3,5 C3,2.23857625 5.23857625,0 8,0 Z M8,2 C6.34314575,2 5,3.34314575 5,5 C5,6.65685425 6.34314575,8 8,8 C9.65685425,8 11,6.65685425 11,5 C11,3.34314575 9.65685425,2 8,2 Z" id="形状结合"></path>
+            </g>
+        </g>
+    </g>
+</svg>
